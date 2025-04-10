@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "INSERT KEY HERE - NOT INCLUDED IN REPO FOR SECURITY REASONS"
 
 def ai_chat():
     print("AI Chatbot is ready! Type 'exit' to quit.")
